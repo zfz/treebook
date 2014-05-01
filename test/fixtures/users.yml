@@ -3,3 +3,9 @@ zfz:
   last_name: "z"
   email: "zfz@zfz.com"
   profile_name: "zfz"
+
+fzz:
+  first_name: "fz"
+  last_name: "z"
+  email: "fzz@fzz.com"
+  profile_name: "fzz"
